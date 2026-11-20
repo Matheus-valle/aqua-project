@@ -1,4 +1,4 @@
-# 🌊 Oceano Vivo — ABZÛ × Procurando Nemo
+# 🌊 Oceano Vivo — ABZÛ 
 
 Experiência 3D imersiva em tela cheia construída com **React 19 + TypeScript + React Three Fiber + Drei + Three.js**.
 
